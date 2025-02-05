@@ -1,0 +1,10 @@
+[package]
+name = "nest-guard"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Utility for working with nested guard-type APIs"
+repository = "https://github.com/anderspapitto/nest-guard"
+readme = "README.md"
+
+[dependencies]
